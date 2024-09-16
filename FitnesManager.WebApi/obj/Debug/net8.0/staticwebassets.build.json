@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gWqKYVq3NbdJrCmXQ9ffmU0r6wJCs9QIO0XZnuSLoV0=",
+  "Source": "FitnesManager.WebApi",
+  "BasePath": "_content/FitnesManager.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

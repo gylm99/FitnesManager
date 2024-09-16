@@ -1,0 +1,6 @@
+@FitnesManager.WebApi_HostAddress = http://localhost:5216
+
+GET {{FitnesManager.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

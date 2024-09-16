@@ -1,0 +1,11 @@
+C:\Lacidok\FitnesManager\FitnesManager\FitnesManager.Domain\bin\Debug\net8.0\FitnesManager.Domain.deps.json
+C:\Lacidok\FitnesManager\FitnesManager\FitnesManager.Domain\bin\Debug\net8.0\FitnesManager.Domain.dll
+C:\Lacidok\FitnesManager\FitnesManager\FitnesManager.Domain\bin\Debug\net8.0\FitnesManager.Domain.pdb
+C:\Lacidok\FitnesManager\FitnesManager\FitnesManager.Domain\obj\Debug\net8.0\FitnesManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lacidok\FitnesManager\FitnesManager\FitnesManager.Domain\obj\Debug\net8.0\FitnesManager.Domain.AssemblyInfoInputs.cache
+C:\Lacidok\FitnesManager\FitnesManager\FitnesManager.Domain\obj\Debug\net8.0\FitnesManager.Domain.AssemblyInfo.cs
+C:\Lacidok\FitnesManager\FitnesManager\FitnesManager.Domain\obj\Debug\net8.0\FitnesManager.Domain.csproj.CoreCompileInputs.cache
+C:\Lacidok\FitnesManager\FitnesManager\FitnesManager.Domain\obj\Debug\net8.0\FitnesManager.Domain.dll
+C:\Lacidok\FitnesManager\FitnesManager\FitnesManager.Domain\obj\Debug\net8.0\refint\FitnesManager.Domain.dll
+C:\Lacidok\FitnesManager\FitnesManager\FitnesManager.Domain\obj\Debug\net8.0\FitnesManager.Domain.pdb
+C:\Lacidok\FitnesManager\FitnesManager\FitnesManager.Domain\obj\Debug\net8.0\ref\FitnesManager.Domain.dll

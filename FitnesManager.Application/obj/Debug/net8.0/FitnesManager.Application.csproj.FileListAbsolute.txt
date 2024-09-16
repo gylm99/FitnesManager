@@ -1,0 +1,15 @@
+C:\Lacidok\FitnesManager\FitnesManager\FitnesManager.Application\bin\Debug\net8.0\FitnesManager.Application.deps.json
+C:\Lacidok\FitnesManager\FitnesManager\FitnesManager.Application\bin\Debug\net8.0\FitnesManager.Application.dll
+C:\Lacidok\FitnesManager\FitnesManager\FitnesManager.Application\bin\Debug\net8.0\FitnesManager.Application.pdb
+C:\Lacidok\FitnesManager\FitnesManager\FitnesManager.Application\bin\Debug\net8.0\FitnesManager.Domain.dll
+C:\Lacidok\FitnesManager\FitnesManager\FitnesManager.Application\bin\Debug\net8.0\FitnesManager.Domain.pdb
+C:\Lacidok\FitnesManager\FitnesManager\FitnesManager.Application\obj\Debug\net8.0\FitnesManager.Application.csproj.AssemblyReference.cache
+C:\Lacidok\FitnesManager\FitnesManager\FitnesManager.Application\obj\Debug\net8.0\FitnesManager.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lacidok\FitnesManager\FitnesManager\FitnesManager.Application\obj\Debug\net8.0\FitnesManager.Application.AssemblyInfoInputs.cache
+C:\Lacidok\FitnesManager\FitnesManager\FitnesManager.Application\obj\Debug\net8.0\FitnesManager.Application.AssemblyInfo.cs
+C:\Lacidok\FitnesManager\FitnesManager\FitnesManager.Application\obj\Debug\net8.0\FitnesManager.Application.csproj.CoreCompileInputs.cache
+C:\Lacidok\FitnesManager\FitnesManager\FitnesManager.Application\obj\Debug\net8.0\FitnesMa.FDB91311.Up2Date
+C:\Lacidok\FitnesManager\FitnesManager\FitnesManager.Application\obj\Debug\net8.0\FitnesManager.Application.dll
+C:\Lacidok\FitnesManager\FitnesManager\FitnesManager.Application\obj\Debug\net8.0\refint\FitnesManager.Application.dll
+C:\Lacidok\FitnesManager\FitnesManager\FitnesManager.Application\obj\Debug\net8.0\FitnesManager.Application.pdb
+C:\Lacidok\FitnesManager\FitnesManager\FitnesManager.Application\obj\Debug\net8.0\ref\FitnesManager.Application.dll
